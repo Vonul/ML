@@ -1,6 +1,4 @@
 # ML
-Projects for the Machine Learning Nanodegree
-
 
 This repository contains the projects I completed for the Machine Learning Nanodegree (Udacity). The project topics and titles can be found below:
 
